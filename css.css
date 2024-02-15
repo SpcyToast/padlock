@@ -1,0 +1,33 @@
+body {
+  background-color: black;
+  text-align: center;
+  margin: 100px;
+  display: block;
+  font-family: 'Pixelify Sans', sans-serif;
+}
+
+.shackle-top {
+  border-color: blueviolet;
+  border: 5px;
+  /* width: 500px; */
+  display: block;
+}
+
+table {
+  margin-right: center;
+  margin-left: center;
+  margin: 0 auto;
+}
+
+.lock {
+  background-color: white;
+  height: 75px;
+  width: 75px;
+  font-size: 30pt;
+}
+
+.notLock {
+  background-color: black;
+  height: 75px;
+  width: 75px;
+}
